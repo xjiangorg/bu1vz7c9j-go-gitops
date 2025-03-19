@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bu1vz7c9j-go-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/bu1vz7c9j-go-gitops
